@@ -20,10 +20,9 @@ Sou um estudante de tecnologia focado no desenvolvimento de soluções eficiente
 
 ### Projetos em Destaque 🌟
 
-[Aqui você vai linkar seus melhores projetos quando eles estiverem prontos! Por enquanto, podemos deixar os seus atuais com uma descrição melhor.]
-
-- 🐍 **Calculadora Simples:** Um dos meus primeiros projetos em Python, focado no entendimento de lógica e manipulação de entradas. [Link para repositório]
-- 🕹️ **Dino Game:** Um mini-jogo recriado em Python com Pygame. [Link para repositório]
+- 🥖 **Monitor de Estoque (Case Real - Padaria Flamboyant):** Sistema em Python para controle de inventário e alertas de reposição. [Ver Projeto](https://github.com/Pierre191/monitor-estoque-padaria)
+- 🗺️ **Mini Game Explorador:** Estudo de lógica de matrizes e coordenadas (X, Y) com movimentação em tempo real. [Ver Projeto](https://github.com/Pierre191/explorador-de-minijogos)
+- 🧮 **Calculadora Interativa:** Projeto focado em tratamento de erros (try/except) e validação de dados. [Ver Projeto](https://github.com/Pierre191/Calculadora-em-python)
 
 ### Vamos Nos Conectar! 🤝
 
